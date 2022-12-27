@@ -24,8 +24,14 @@ SC313004 Software Engineer
 	Email		: priyada.ak@gmail.com
 	Username	: Priyada-Ak
 	
-5. Name			: Supaporn Krungsaenmueang
-   Student ID   : 633020565-9
-   Section      : 1
-   Email		: supaporn.kr@kkumail.com
-   Username	    : msupaporn
+5. 	Name	        : Supaporn Krungsaenmueang
+   	Student ID      : 633020565-9
+   	Section         : 1
+   	Email	        : supaporn.kr@kkumail.com
+   	Username	: msupaporn
+
+6.	Name	        : Phudit Santhip
+   	Student ID      : 633020038-2
+   	Section         : 1
+   	Email	        : phuditsanthip@kkumail.com
+   	Username	: Phudiskey
