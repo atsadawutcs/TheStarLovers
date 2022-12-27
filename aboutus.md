@@ -11,3 +11,8 @@ SC313004 Software Engineer
 	Section		: 1 
 	Email		: Siriwat.ka@kkumail.com 
 	Username	: SiriLix
+3.	Name		: jirakorn Donhuabo
+	Student ID	: 633020568-3
+	Section		: 1 
+	Email		: jirakorn@kkumail.com
+	Username	: jirakorn-sweet-p
